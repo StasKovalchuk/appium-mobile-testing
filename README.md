@@ -1,4 +1,4 @@
-# mobile-automation-test-android
+# A few automation test examples using appium and webdriveio
 This repository is part of online tutorial for this [youtube channel](https://www.youtube.com/channel/UC0yz1P9c1mNfB7Rt5r-NbSA/playlists)
 
 # Environment setup
@@ -15,3 +15,5 @@ This repository is part of online tutorial for this [youtube channel](https://ww
 
 # Run test
 * Please follow instruction from tutorial videos
+
+The webdriverio tests were developed using the synchronous js code. To use it, you should have an old version of Node.js or rewrite it to async style.
